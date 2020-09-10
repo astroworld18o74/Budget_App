@@ -8,3 +8,6 @@ This is an interactive web app where you can maintain your monthly budget. Here 
    - Expenditure
 2. It will provide you a relative percentage of your expenditures.
 3. You can delete entries.
+
+
+
