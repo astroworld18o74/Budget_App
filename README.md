@@ -9,5 +9,5 @@ This is an interactive web app where you can maintain your monthly budget. Here 
 2. It will provide you a relative percentage of your expenditures.
 3. You can delete entries.
 
-
+[Link to the project](https://chandelsahil04.github.io/Budget_App/)
 
