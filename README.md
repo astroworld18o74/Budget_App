@@ -11,5 +11,5 @@ This is an interactive web app where you can maintain your monthly budget. Here 
 
 [Link to the project](https://chandelsahil04.github.io/Budget_App/)
 
-##Screenshot of the app
+## Screenshot of the app
 ![Link to the project](https://github.com/chandelsahil04/Budget_App/blob/master/image.png)
